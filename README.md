@@ -12,5 +12,8 @@ Here is a collection of scripts that will may make you say "Fuck, Vim!"
 
 # Contribute
 
-This project is for sharing and contributing! You can find a `template.vim` file to fill up your own script.
-Fill up a pull request to make your script part of this repository.
+This project is for sharing and contributing! 
+
+You can find a `template.vim` file to fill up your own script.
+
+Open a pull request to make your script part of this repository.
