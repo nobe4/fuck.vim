@@ -6,9 +6,9 @@ Here is a collection of scripts that will may make you say "Fuck, Vim!"
 
 # List (A-Z)
 
-- [err_stripes.vim](err_stripes.vim)
-- [stay_insert.vim](stay_insert.vim)
-- [twinkle_twinkle.vim](twinkle_twinkle.vim)
+- [err_stripes.vim](list/err_stripes.vim)
+- [stay_insert.vim](list/stay_insert.vim)
+- [twinkle_twinkle.vim](list/twinkle_twinkle.vim)
 
 # Contribute
 
